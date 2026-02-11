@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/WgsVw69F)
+
 <p align="center">
   <picture>
     <img style="max-width:200px;height:auto"  src="https://www.rewindtty.dev/assets/images/logo.png" alt="rewindtty logo">
@@ -7,6 +9,8 @@
 # rewindtty Website
 
 This is a static Next.js website for the rewindtty project - a terminal session recorder and replayer written in C.
+
+**Discord** - [Join our discord server](https://discord.gg/WgsVw69F) and chat with the maintainers.
 
 ## Getting Started
 
